@@ -31,3 +31,6 @@ List of all updates to TFB
 - defensive doctrine only gives 20% entrenchment
 - offensive doctrine now gives 5% attack
 - tank bonusses on arty tech
+1.03 recent votes
+- infantry at techs now give 10% hard attack innstead of defence
+- offensive doctrine now gives 10% attack instead of 5%
