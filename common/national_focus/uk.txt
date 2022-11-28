@@ -300,7 +300,7 @@ focus_tree = {
 		completion_reward = {
 			add_tech_bonus = {
 				name = fighter_bonus
-				bonus = 0.75
+				bonus = 0.5
 				uses = 1
 				category = light_fighter
 			}
@@ -2287,6 +2287,12 @@ focus_tree = {
 					province = 1071
 					instant_build = yes
 				}
+				set_building_level = {
+					type = bunker
+					level = 5
+					province = 10127
+					instant_build = yes
+				}
 				add_building_construction = {
 					type = anti_air_building
 					level = 2
@@ -3289,7 +3295,7 @@ focus_tree = {
 			}
 		}
 	}
-
+	
 	focus = {
 		id = ENG_home_guard
 		icon = GFX_focus_eng_concessions_to_the_trade_unions
